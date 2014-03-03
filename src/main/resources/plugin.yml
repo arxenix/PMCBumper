@@ -1,0 +1,9 @@
+name: PMCBumper
+main: com.ksanur.pmcbumper.PMCBumper
+version: ${version}
+description: Auto-bump your PMC server!
+author: bobacadodl
+commands:
+  pmcbump:
+    description: Bump your PMC server
+    aliases: [pmcbumper]

@@ -1,0 +1,6 @@
+pmc:
+  email: 'email@email.com'
+  password: 'password'
+  server-pages: []
+auto-bump: true
+last-bump: 0
